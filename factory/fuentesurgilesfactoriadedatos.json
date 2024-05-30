@@ -1,0 +1,9 @@
+{
+	"name": "fuentesurgilesfactoriadedatos",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "45628cc9-28a4-40e3-8bf0-75da5a72025e",
+		"tenantId": "90b3cde0-97ca-4f99-b27d-84be554c9d64"
+	}
+}

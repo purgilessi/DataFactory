@@ -1,0 +1,12 @@
+{
+	"name": "LinkContenedorADLS",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=fuentesurgiles;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDI1MDY4NDgwLTI2NDctNDMzMy1CQUU3LTdCMTZDNjU0QzI4Ql9iN2M2MmNlMi1jOTFjLTQyNTItYTQzNC1hYzFjOGMzZjczY2EiDQp9"
+		}
+	}
+}
